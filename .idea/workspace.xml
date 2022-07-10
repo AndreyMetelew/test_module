@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10422a92-1215-4703-a89b-a9d77df71c6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/Запрос GET" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_module.iml" afterDir="false" />
+    <list default="true" id="10422a92-1215-4703-a89b-a9d77df71c6f" name="Changes" comment="Задание тестировщика">
+      <change afterPath="$PROJECT_DIR$/src/tasks/Алгоритм действий" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/Тест-case" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +33,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Fibonacci" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tasks.Fibonacci" />
@@ -64,6 +58,35 @@
       <option name="presentableId" value="Default" />
       <updated>1657257506830</updated>
     </task>
+    <task id="LOCAL-00001" summary="Задание тестировщика">
+      <created>1657262744017</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657262744017</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Задание тестировщика">
+      <created>1657262774260</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657262774260</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задание тестировщика">
+      <created>1657262793416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657262793416</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Задание тестировщика">
+      <created>1657262842557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657262842557</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задание тестировщика" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание тестировщика" />
   </component>
 </project>
